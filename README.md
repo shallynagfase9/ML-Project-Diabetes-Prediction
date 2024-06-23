@@ -1,16 +1,9 @@
-# lab-flask
+In this project 'Diabetes Prediction,' I harnessed the power of logistic regression to accurately determine the likelihood of an individual having diabetes based on essential information. By utilizing Python and statistical analysis techniques on a comprehensive CSV dataset featuring crucial features like BMI, I developed a robust predictive model. 
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
-
-To run flask application 
+# To run flask application 
 
 ```
 python app.py
 ```
 
 
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
